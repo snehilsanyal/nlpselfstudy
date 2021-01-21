@@ -29,3 +29,9 @@ Following the curriculum for "Learn Natural Language Processing" by Siraj Raval 
 ### Projects
 - Look at 1-1 to 3-4 to learn [NLTK](https://github.com/hb20007/hands-on-nltk-tutorial)
 - Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice
+
+### Additional Resources:
+- [Applied NLP Course Swayam](https://onlinecourses.nptel.ac.in/noc20_cs87/course)
+- [NLP with python NLTK Book](http://www.nltk.org/book/)
+- [NLP Course](https://www3.nd.edu/~dchiang/teaching/nlp/2017/)
+- [DataCamp course](https://learn.datacamp.com/)
