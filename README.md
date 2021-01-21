@@ -35,3 +35,6 @@ Following the curriculum for "Learn Natural Language Processing" by Siraj Raval 
 - [NLP with python NLTK Book](http://www.nltk.org/book/)
 - [NLP Course](https://www3.nd.edu/~dchiang/teaching/nlp/2017/)
 - [DataCamp course](https://learn.datacamp.com/)
+- [Krish Naik sir's playlist](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
+- [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [NLTK Playlist SentDex](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
